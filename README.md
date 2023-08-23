@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @salah-elraies
 - 👀 I’m interested in Front-end web development
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on React projects
+- 🌱 I’m currently learning Next.js
+- 💞️ I’m looking to collaborate on Web projects
 - 📫 How to reach me salah.elraies@gmail.com
 
 <!---
